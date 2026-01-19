@@ -1,0 +1,38 @@
+[  {
+  "id" : "1",
+  "titolo" : "Maledetta primavera",
+  "artista" : "Loretta Goggi",
+  "durata" :  "254"
+  },
+
+{
+  "id" : "2",
+  "titolo" : "Mentre tutto scorre",
+  "artista" : "Negramaro",
+  "durata" :  "201"
+},
+  {
+    "id" : "3",
+    "titolo" : "Wait a Minute!",
+    "artista" : "WILLOW",
+    "durata" :  "195"
+  },
+  {
+    "id" : "4",
+    "titolo" : "Arriverà",
+    "artista" : "Modà",
+    "durata" :  "214"
+  },
+  {
+    "id" : "5",
+    "titolo" : "you drive me crazy",
+    "artista" : "Six Dior",
+    "durata" :  "226"
+  },
+  {
+    "id" : "6",
+    "titolo" : "Push Up",
+    "artista" : "Creeds",
+    "durata" :  "316"
+  }
+]
